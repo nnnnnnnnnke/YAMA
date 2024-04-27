@@ -132,7 +132,7 @@ rule APT10_HTSrl_signed {
 
     	strings:
             $c="IT"
-            $st="Italy"
+            $st="Ital"
             $l="Milan"
             $ou="Digital ID Class 3 - Microsoft Software Validation v2"
             $cn="HT Srl"
