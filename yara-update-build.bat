@@ -27,5 +27,9 @@ ninja -v CMakeFiles/Yama.dir/rsrc/resources.rc.res >> yama-ninja.log
 
 @REM build YAMA scanner
 
+ls ./
+ls ../
+ls ../../
+
 ninja >> yama-ninja.log
 cd ..\
