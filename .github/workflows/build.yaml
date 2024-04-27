@@ -97,7 +97,7 @@ jobs:
       run: |
         ./build.bat
         ./yara-update-build.bat      
-        shell: powershell
+      shell: powershell
 
     - name: Show ninja build log
       run: |
